@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/eric/Dropbox/Eric/Programming/Projects/shell-c'
+clang src/main.c -o lsh
+make: Leaving directory `/Users/eric/Dropbox/Eric/Programming/Projects/shell-c'
+ 
